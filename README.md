@@ -1,4 +1,4 @@
-# I am majoring A.I. in Gachon University
+# Majoring A.I. in Gachon University
 Seongeun Kim, student of Gachon A.I. 
 
 I'm currently learning programming. 

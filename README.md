@@ -1,5 +1,5 @@
 # Majoring A.I. in Gachon University
-Seongeun Kim, student of Gachon A.I. 
+#### Seongeun Kim, student of Gachon A.I. 
 
 I'm currently learning programming. 
 I'm interested and want to learn more about artificial intelligence. 

@@ -3,7 +3,7 @@ Seongeun Kim, student of Gachon A.I.
 
 I'm currently learning programming. 
 I'm interested and want to learn more about artificial intelligence. 
-Let's learn about A.I. together!
+Anyone who's interested in A.I., Let's learn about A.I. together!
 <!--
 **k-seun/k-seun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

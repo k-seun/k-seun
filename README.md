@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am majoring A.I. in Gachon Univeristy.
 
 <!--
 **k-seun/k-seun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

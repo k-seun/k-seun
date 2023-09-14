@@ -1,5 +1,6 @@
-## I am majoring A.I. in Gachon Univeristy
+# I am majoring A.I. in Gachon University
 I'm currently learning programming. 
+
 I'm interested and want to learn more about artificial intelligence. 
 Let's learn about A.I. together!
 <!--
